@@ -9,5 +9,5 @@ export default defineConfig({
   devToolbar: {
     enabled: false
   },
-  integrations: [react(), tailwind(), sitemap()]
+  integrations: [tailwind(), sitemap()]
 });

@@ -49,6 +49,7 @@
 	flex-direction: column;
 	justify-content: center;
 	gap: 4rem;
+	align-items: center;
 }
 
 .hero__container .text__content .hero__title {
