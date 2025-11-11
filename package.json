@@ -14,7 +14,12 @@
     "@tailwindcss/vite": "^4.1.1"
   },
   "main": "index.astro",
-  "devDependencies": {},
+  "devDependencies": {
+
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "*"
+  },
   "keywords": [
     "astro",
     "css",
