@@ -6,4 +6,5 @@ export default defineConfig({
   devToolbar: {
     enabled: false
   },
+  site: 'https://jrojat.github.io'
 });
